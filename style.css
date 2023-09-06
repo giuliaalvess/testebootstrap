@@ -1,38 +1,10 @@
-.titulo{
-      font-size: 60px;
-      padding-top: 50px;
-      text-align: center;
-}
 header{
-      background-image: url('https://i.pinimg.com/originals/9b/d3/1e/9bd31eacfb5857c4629e36b2d4884f5e.png');
-      height: 400px;
+      background-image: url('https://arb.umn.edu/sites/arb.umn.edu/files/2023-08/webpage_header_images_4.jpg');
+      height: 395px;
       width: 100%;
 }
-.card{
-      width: 300px;
-      height: 400px;
-      float: left;
-      background-color: bisque;
-      margin-left: 90px;
+.principal{
+      position: absolute;
+      margin-top: 160px;
+}
 
-}
-.imgss{
-      margin-left: 50px;
-      margin-top: 20px;
-}
-footer{
-      background-color: bisque;
-      width: 100%;
-      height: 400px;
-}
-button {
-      background-color: #af914c; 
-      border: none;
-      color: white;
-      padding: 15px 32px;
-      text-align: center;
-      text-decoration: none;
-      display: inline-block;
-      font-size: 16px;
-      border-radius: 20px;
-    }
